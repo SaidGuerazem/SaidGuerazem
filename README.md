@@ -26,7 +26,7 @@ I'm a final year Control Engineering student at Ecole Nationale Polytechnique, p
 - 👨‍💻 Enthusiastic about exploring new technologies and their applications
 - 📫 Reach me at: [Your Email](mailto:said.guerazem@g.enp.edu.dz)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/said-guerazem/)
-- ⚡ Fun fact: I enjoy experimenting with new recipes in my free time!
+- ⚡ Fun fact: My group of friends can build anything if we wanted to xD
 
 ## Projects
 
