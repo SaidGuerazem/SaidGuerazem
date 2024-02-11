@@ -32,7 +32,13 @@ I'm a final year Control Engineering student at Ecole Nationale Polytechnique, p
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20%;">&nbsp;
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
+
+<img src="https://img.shields.io/badge/-Matlab-orange?logo=mathworks&logoColor=white">&nbsp;
+
+<img src="https://img.shields.io/badge/-Simulink-blue?logo=mathworks&logoColor=white">&nbsp;
+
+<img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white">&nbsp;
+
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">&nbsp;
