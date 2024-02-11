@@ -32,12 +32,9 @@ I'm a final year Control Engineering student at Ecole Nationale Polytechnique, p
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20%;">&nbsp;
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
-
 <img src="https://img.shields.io/badge/-Matlab-orange?logo=mathworks&logoColor=white">&nbsp;
-
 <img src="https://img.shields.io/badge/-Simulink-blue?logo=mathworks&logoColor=white">&nbsp;
 
-<img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white">&nbsp;
 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
@@ -45,6 +42,8 @@ I'm a final year Control Engineering student at Ecole Nationale Polytechnique, p
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="border-radius: 20%;">&nbsp;
+<img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white">&nbsp;
+
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
