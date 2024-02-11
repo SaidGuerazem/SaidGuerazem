@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
+</div>
 
 # Hi there, I'm Said! 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 
 I'm a final year Control Engineering student at Ecole Nationale Polytechnique, passionate about Control Engineering, Robotics, and AI. I aspire to become an expert in my domain of expertise.  I'm particularly intrested in the applications of  Reinforcement Learning (DQN and its variants, Multi-armed bandits Problems, Actor-critic methods...etc) and its applications across various domains.
