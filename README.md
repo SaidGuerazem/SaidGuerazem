@@ -28,6 +28,30 @@ I'm a final year Control Engineering student at Ecole Nationale Polytechnique, p
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/said-guerazem/)
 - ⚡ Fun fact: My group of friends can build anything if we wanted to xD
 
+## Some Languages that I use
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20%;">&nbsp;
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="border-radius: 20%;">&nbsp;
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">&nbsp;
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">&nbsp;
+
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">&nbsp;
+
+
 ## Projects
 
 Here are some projects I've been working on:
@@ -41,7 +65,7 @@ Feel free to explore my repositories for more projects and contributions!
 
 I'm always open to new opportunities, collaborations, and discussions. If you share similar interests or have exciting projects in mind, let's connect!
 
-Don't hesitate to reach out via [email](mailto:said.guerazem@g.enp.edu.dz) or connect with me on [LinkedIn](https://www.linkedin.com/in/said-guerazem/). I look forward to hearing from you!
+Don't hesitate to reach out to me via [email](mailto:said.guerazem@g.enp.edu.dz) or connect with me on [LinkedIn](https://www.linkedin.com/in/said-guerazem/). I look forward to hearing from you!
 
 
 
