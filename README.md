@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Said GUERAZEM! 👋
+# Hi there, I'm Said! 👋
 
-I'm a final year Control Engineering student at Ecole Nationale Polytechnique, passionate about Control Engineering, Robotics, and AI. I aspire to become an expert in my domain of expertise.  I'm particularly intrested in the applications of  Reinforcement Learning (DQN and its variants, Multi-armed bandits, Actor-critic methods...etc) and its applications across various domains.
+I'm a final year Control Engineering student at Ecole Nationale Polytechnique, passionate about Control Engineering, Robotics, and AI. I aspire to become an expert in my domain of expertise.  I'm particularly intrested in the applications of  Reinforcement Learning (DQN and its variants, Multi-armed bandits Problems, Actor-critic methods...etc) and its applications across various domains.
 
 ## About Me
 
