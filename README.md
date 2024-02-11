@@ -69,7 +69,7 @@ I'm a final year Control Engineering student at Ecole Nationale Polytechnique, p
 
 Here are some projects I've been working on:
 
-- [Vision based autonomous path tracking of a mobile robot using fuzzy logic](https://github.com/SaidGuerazem/Miniproject)
+- [Vision based autonomous path tracking of a mobile robot using fuzzy logic](https://github.com/SaidGuerazem/Vision-based-autonomous-path-tracking-of-a-mobile-robot-using-fuzzy-logic)
 - [A Deep Reinforcement Learning Approach for Active SLAM Exploration](https://github.com/SaidGuerazem/A-Deep-Reinforcement-Learning-Approach-for-Active-Slam-Exploration)
 
 Feel free to explore my repositories for more projects and contributions! 
