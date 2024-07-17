@@ -30,7 +30,7 @@ I'm a final year Control Engineering student at Ecole Nationale Polytechnique, p
 
 - 🎓 Final year Control Engineering student at Ecole Nationale Polytechnique
 - 💡 Interested in Control Engineering, Robotics, and AI ✨.
-- 🌱 Currently working on the Identification of the parameters of a Neuromuscular controller designed for partial Gait assistance (In collaboration with REHAssist Lab EPFL).
+<!--- 🌱 Currently working on the Identification of the parameters of a Neuromuscular controller designed for partial Gait assistance (In collaboration with REHAssist Lab EPFL). -->
 - 👨‍💻 Enthusiastic about exploring new technologies and their applications
 - 📫 Reach out to me at [My email](mailto:said.guerazem@g.enp.edu.dz)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/said-guerazem/)
