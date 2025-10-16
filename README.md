@@ -1,90 +1,74 @@
-<!-- README.md — Said Guerazem -->
-<div align="center">
-  <img src="https://github.com/SaidGuerazem/SaidGuerazem/assets/placeholder/banner.gif" alt="banner" width="800"/>
-</div>
+# 👨‍🚀 Said GUERAZEM  
 
-<h1 align="center">Hi there, I'm Said 👋</h1>
-
-<p align="center">
-  <b>MPhil/PhD Researcher in Robotics, Computer Vision, and Reinforcement Learning</b><br>
-  City, University of London · NATO Science for Peace & Security Programme
-</p>
-
-<div align="center">
-  <a href="mailto:said.guerazem@g.enp.edu.dz"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/said-guerazem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SaidGuerazem"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-</div>
+🎓 **PhD Researcher in Intelligent Multispectral Vision & Autonomous Space Systems**  
+📍 City, University of London | NATO SPS Programme – Lead Odometry Engineer  
+🧠 Passionate about AI, Computer Vision, and Space Robotics  
 
 ---
 
-### 🧠 About Me
-I’m a **researcher and engineer** passionate about **autonomous systems, control, and machine intelligence**.  
-Currently, I’m pursuing my **PhD in Electronic Engineering** at *City, University of London*,  
-where I develop **intelligent multispectral vision and guidance systems** for **autonomous spacecraft rendezvous and docking**.
-
-- 🎓 Previously: Control Engineering graduate from **École Nationale Polytechnique (ENP), Algiers**  
-- 🔬 Currently: Research Fellow & Lead Odometry Engineer – **NATO SPS Programme**  
-- 🧭 Interests: Vision-based navigation · Multispectral perception · Deep RL for guidance/control  
-- 💬 Always open to discussions on **AI, robotics, and space autonomy**
+## 🛰️ About Me  
+I’m working on **intelligent multispectral-based relative navigation and guidance** for autonomous rendezvous and docking.  
+My research focuses on **deep learning**, **multimodal vision**, and **reinforcement learning** for spacecraft perception and control.  
 
 ---
 
-### 🚀 Current Research
-> **Intelligent Multispectral-based Relative Navigation & Guidance for Autonomous Rendezvous and Docking**
-
-- Developing multispectral (RGB + LWIR) pose estimation pipelines  
-- Designing dual-backbone networks fused through a recurrent head  
-- Implementing Deep RL for autonomous guidance and control  
-- Validating with real sensor data (Visible + Thermal) using the **ASTOS Dataset**
-
----
-
-### 🧩 Featured Projects
-| Project | Description |
-|----------|--------------|
-| [**Active SLAM Exploration (D3QN)**](https://github.com/SaidGuerazem/A-Deep-Reinforcement-Learning-Approach-for-Active-Slam-Exploration) | Deep Reinforcement Learning for autonomous SLAM exploration using a D3QN agent with prioritized replay. |
-| [**Vision-based Path Tracking (Fuzzy Logic)**](https://github.com/SaidGuerazem/Vision-based-autonomous-path-tracking-of-a-mobile-robot-using-fuzzy-logic) | A fuzzy logic controller for a mobile robot using visual feedback to follow trajectories. |
-| **Multispectral Pose Estimation (Ongoing)** | Combining RGB and LWIR images for spacecraft relative pose estimation via Conditional UNet + Diffusion. |
+## 🧩 Current Research Focus  
+- **Multispectral Image-Based Pose Estimation** (RGB + LWIR)  
+- **Recurrent Neural Networks for Relative Navigation**  
+- **Deep Reinforcement Learning for Guidance and Control**  
+- **Active SLAM & Autonomous Exploration**  
+- **Multistage Training Strategies for Hybrid Neural Architectures**
 
 ---
 
-### 🧰 Languages & Tools
-<div align="center">
+## ⚙️ Some Languages & Tools That I Use  
 
-| Core | AI/ML | Robotics | Dev |
-|------|--------|-----------|------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![ROS](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E44C30?logo=git&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Gazebo](https://img.shields.io/badge/Gazebo-000000?logo=ros&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) |
-| ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![RealSense](https://img.shields.io/badge/RealSense-00B8F0?logo=intel&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white) |
+### 🖥️ Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Matlab-orange?style=for-the-badge&logo=mathworks&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Simulink-blue?style=for-the-badge&logo=mathworks&logoColor=white">&nbsp;
 
-</div>
+### 🤖 AI / ML / DL Frameworks  
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">&nbsp;
+
+### 🛰️ Robotics, Vision & Simulation  
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/SLAM-0088cc?style=for-the-badge&logo=autonomous&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">&nbsp;
+
+### 🧰 Dev & Research Tools  
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">&nbsp;
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">&nbsp;
 
 ---
 
-### 🧮 Highlights
-- 🔥 Revived **Gym-Gazebo** integration for ROS Melodic + TurtleBot3 (Active SLAM)  
-- 🧊 Designed a **thermal image DataLoader** with multi-subfolder sequence support  
-- 🧠 Created a **multi-stage training strategy** for dual-backbone RGB/LWIR models  
-- 🛰️ Working with the **ASTOS Dataset** for spacecraft pose estimation  
-- 🤖 Experimenting with **ORB-SLAM3 + RealSense D455 on ROS 2 Humble**
+## 📚 Featured Projects  
+- 🚀 **Multispectral Pose Estimation for Spacecraft Docking** — Dual backbone deep model (RGB + LWIR) with recurrent fusion for 6D pose estimation.  
+- 🧭 **Deep Reinforcement Learning for Active SLAM** — Implemented D3QN with Prioritized Experience Replay in ROS + Gazebo (TurtleBot3).  
+- 🌍 **LiDAR–IMU SLAM for Outdoor Navigation** — Ouster OS1-based SLAM system for plain field mapping and localization.  
+- 🧪 **Thermal–Visible Image Translation using Diffusion Models** — Conditional UNet with adaptive training and edge/saliency conditioning.  
 
 ---
 
-### 🗣️ Fun Fact
-> My friends and I can build anything if we put our minds to it 😄
+## 📫 Connect With Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/said-guerazem)  
+📧 [Email](said.guerazem@city.ac.uk )
 
 ---
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:said.guerazem@g.enp.edu.dz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/said-guerazem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/SaidGuerazem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <sub>⭐ Inspired by modern research profiles — last updated October 2025</sub>
-</div>
+✨ _"Bridging AI and Space Robotics through Intelligent Vision."_ 
