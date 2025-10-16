@@ -7,17 +7,15 @@
 ---
 
 ## 🛰️ About Me  
-I’m working on **intelligent multispectral-based relative navigation and guidance** for autonomous rendezvous and docking.  
-My research focuses on **deep learning**, **multimodal vision**, and **reinforcement learning** for spacecraft perception and control.  
+I’m working on **intelligent multispectral-based relative navigation, guidance and control** for spacecraft rendezvous and docking operations.  
+My research focuses on **deep learning**, **multimodal vision**, and **reinforcement learning** for perception and control.  
 
 ---
 
 ## 🧩 Current Research Focus  
-- **Multispectral Image-Based Pose Estimation** (RGB + LWIR)  
-- **Recurrent Neural Networks for Relative Navigation**  
-- **Deep Reinforcement Learning for Guidance and Control**  
+- **Multispectral Image-Based Pose Estimation for Spacecraft Relative Navigation** 
+- **Deep Reinforcement Learning for Spacecraft Guidance and Control**  
 - **Active SLAM & Autonomous Exploration**  
-- **Multistage Training Strategies for Hybrid Neural Architectures**
 
 ---
 
@@ -58,11 +56,9 @@ My research focuses on **deep learning**, **multimodal vision**, and **reinforce
 
 ---
 
-## 📚 Featured Projects  
-- 🚀 **Multispectral Pose Estimation for Spacecraft Docking** — Dual backbone deep model (RGB + LWIR) with recurrent fusion for 6D pose estimation.  
+## 📚 Featured Projects   
 - 🧭 **Deep Reinforcement Learning for Active SLAM** — Implemented D3QN with Prioritized Experience Replay in ROS + Gazebo (TurtleBot3).  
-- 🌍 **LiDAR–IMU SLAM for Outdoor Navigation** — Ouster OS1-based SLAM system for plain field mapping and localization.  
-- 🧪 **Thermal–Visible Image Translation using Diffusion Models** — Conditional UNet with adaptive training and edge/saliency conditioning.  
+- 🌍 **LiDAR–IMU SLAM for Outdoor Navigation** — Ouster OS1-based SLAM system for plain field mapping and localization.   
 
 ---
 
