@@ -1,86 +1,90 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**SaidGuerazem/SaidGuerazem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- README.md — Said Guerazem -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/SaidGuerazem/SaidGuerazem/assets/placeholder/banner.gif" alt="banner" width="800"/>
 </div>
 
-# Hi there, I'm Said! 👋
+<h1 align="center">Hi there, I'm Said 👋</h1>
 
+<p align="center">
+  <b>MPhil/PhD Researcher in Robotics, Computer Vision, and Reinforcement Learning</b><br>
+  City, University of London · NATO Science for Peace & Security Programme
+</p>
 
+<div align="center">
+  <a href="mailto:said.guerazem@g.enp.edu.dz"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/said-guerazem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SaidGuerazem"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</div>
 
+---
 
-I'm a final year Control Engineering student at Ecole Nationale Polytechnique, passionate about Control Engineering, Robotics, and AI. I aspire to become an expert in my domain of expertise.  I'm particularly intrested in the applications of  Reinforcement Learning (DQN and its variants, Multi-armed bandits Problems, Actor-critic methods...etc) and its applications across various domains.
+### 🧠 About Me
+I’m a **researcher and engineer** passionate about **autonomous systems, control, and machine intelligence**.  
+Currently, I’m pursuing my **PhD in Electronic Engineering** at *City, University of London*,  
+where I develop **intelligent multispectral vision and guidance systems** for **autonomous spacecraft rendezvous and docking**.
 
-## About Me
+- 🎓 Previously: Control Engineering graduate from **École Nationale Polytechnique (ENP), Algiers**  
+- 🔬 Currently: Research Fellow & Lead Odometry Engineer – **NATO SPS Programme**  
+- 🧭 Interests: Vision-based navigation · Multispectral perception · Deep RL for guidance/control  
+- 💬 Always open to discussions on **AI, robotics, and space autonomy**
 
-- 🎓 Final year Control Engineering student at Ecole Nationale Polytechnique
-- 💡 Interested in Control Engineering, Robotics, and AI ✨.
-<!--- 🌱 Currently working on the Identification of the parameters of a Neuromuscular controller designed for partial Gait assistance (In collaboration with REHAssist Lab EPFL). -->
-- 👨‍💻 Enthusiastic about exploring new technologies and their applications
-- 📫 Reach out to me at [My email](mailto:said.guerazem@g.enp.edu.dz)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/said-guerazem/)
-- ⚡ Fun fact: My group of friends can build anything if we wanted to xD
+---
 
-## Some Languages & Tools That I use
+### 🚀 Current Research
+> **Intelligent Multispectral-based Relative Navigation & Guidance for Autonomous Rendezvous and Docking**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20%;">&nbsp;
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Matlab-orange?style=for-the-badge&logo=mathworks&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Simulink-blue?style=for-the-badge&logo=mathworks&logoColor=white">&nbsp;
+- Developing multispectral (RGB + LWIR) pose estimation pipelines  
+- Designing dual-backbone networks fused through a recurrent head  
+- Implementing Deep RL for autonomous guidance and control  
+- Validating with real sensor data (Visible + Thermal) using the **ASTOS Dataset**
 
+---
 
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="border-radius: 20%;">&nbsp;
-<img src="https://img.shields.io/badge/-PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white">&nbsp;
+### 🧩 Featured Projects
+| Project | Description |
+|----------|--------------|
+| [**Active SLAM Exploration (D3QN)**](https://github.com/SaidGuerazem/A-Deep-Reinforcement-Learning-Approach-for-Active-Slam-Exploration) | Deep Reinforcement Learning for autonomous SLAM exploration using a D3QN agent with prioritized replay. |
+| [**Vision-based Path Tracking (Fuzzy Logic)**](https://github.com/SaidGuerazem/Vision-based-autonomous-path-tracking-of-a-mobile-robot-using-fuzzy-logic) | A fuzzy logic controller for a mobile robot using visual feedback to follow trajectories. |
+| **Multispectral Pose Estimation (Ongoing)** | Combining RGB and LWIR images for spacecraft relative pose estimation via Conditional UNet + Diffusion. |
 
+---
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">&nbsp;
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">&nbsp;
+### 🧰 Languages & Tools
+<div align="center">
 
+| Core | AI/ML | Robotics | Dev |
+|------|--------|-----------|------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![ROS](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E44C30?logo=git&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Gazebo](https://img.shields.io/badge/Gazebo-000000?logo=ros&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![RealSense](https://img.shields.io/badge/RealSense-00B8F0?logo=intel&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white) |
 
+</div>
 
+---
 
-## Projects
+### 🧮 Highlights
+- 🔥 Revived **Gym-Gazebo** integration for ROS Melodic + TurtleBot3 (Active SLAM)  
+- 🧊 Designed a **thermal image DataLoader** with multi-subfolder sequence support  
+- 🧠 Created a **multi-stage training strategy** for dual-backbone RGB/LWIR models  
+- 🛰️ Working with the **ASTOS Dataset** for spacecraft pose estimation  
+- 🤖 Experimenting with **ORB-SLAM3 + RealSense D455 on ROS 2 Humble**
 
-Here are some projects I've been working on:
+---
 
-- [Vision based autonomous path tracking of a mobile robot using fuzzy logic](https://github.com/SaidGuerazem/Vision-based-autonomous-path-tracking-of-a-mobile-robot-using-fuzzy-logic)
-- [A Deep Reinforcement Learning Approach for Active SLAM Exploration](https://github.com/SaidGuerazem/A-Deep-Reinforcement-Learning-Approach-for-Active-Slam-Exploration)
+### 🗣️ Fun Fact
+> My friends and I can build anything if we put our minds to it 😄
 
-Feel free to explore my repositories for more projects and contributions! 
+---
 
-## Let's Connect!
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:said.guerazem@g.enp.edu.dz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/said-guerazem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/SaidGuerazem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-I'm always open to new opportunities, collaborations, and discussions. If you share similar interests or have exciting projects in mind, let's connect!
+---
 
-Don't hesitate to reach out to me via [email](mailto:said.guerazem@g.enp.edu.dz) or connect with me on [LinkedIn](https://www.linkedin.com/in/said-guerazem/). I look forward to hearing from you!
-
-
-
-
-
+<div align="center">
+  <sub>⭐ Inspired by modern research profiles — last updated October 2025</sub>
+</div>
